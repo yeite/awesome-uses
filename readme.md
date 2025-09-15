@@ -30,6 +30,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 # Awesome Uses ![Awesome][awesome-badge]
 
+* [matizeta](https://matizeta.com/uses/) — Communicator & Designer.
 * [Loic Leray](https://www.loicleray.com/uses) — Veterinarian turned CRUD-monkey and tech sales guy. Extreme sports enthusiast.
 * [Jared Rigby](https://jaredrigby.co.uk/uses/) — Creative technologist and indie game developer.
 * [Daniel Marcinkowski](https://meetdaniel.me/uses/) — A multi-disciplinary tech professional.
@@ -897,6 +898,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Manthan Ank](https://manthanank.github.io/uses) — I'm Software Developer, Intermediate Learner, Also as a hobby I write blogs related to Web Development.
 * [Catalin Pit](https://catalins.tech/uses/) — Software developer building on the web with TypeScript, React, Node.js, and more. Writer, YouTuber, and lifelong learner who enjoys sharing knowledge with others.
 * [Martin de Lima](https://mmmart.in/uses) — Lapsed developer, relapsed designer
+
 * [Thu Le](https://thu-le.com/uses) — Product & Experience Designer working in B2B SaaS.
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
